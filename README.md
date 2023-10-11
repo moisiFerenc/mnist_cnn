@@ -38,5 +38,5 @@ Evaluate the accuracy of the model on the validation set.
 
 The menu-driven interface makes it easy to interact with the script.
 
-#notes:
+# notes:
 ![image](https://github.com/moisiFerenc/mnist_cnn/assets/78962708/3cdbd678-6a1a-41c4-b094-c5c83c316b96)
